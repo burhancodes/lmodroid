@@ -1,7 +1,7 @@
 LMODroid
 ===========
 
-Getting started
+Getting Started 
 ---------------
 
 To get started with Android/LMODroid, you'll need to get
@@ -9,9 +9,10 @@ familiar with [Repo](https://source.android.com/source/using-repo.html) and [Ver
 
 To initialize your local repository using the LMODroid trees, use a command like this:
 ```
-repo init -u https://git.libremobileos.com/LMODroid/manifest.git -b thirteen --git-lfs
+repo init -u https://github.com/burhancodes/lmodroid.git -b thirteen --git-lfs
 ```
 Then to sync up:
 ```
-repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+repo sync -c --no-clone-bundle --no-tags --optimized-fetch --prune --force-sync -j8
 ```
+Note: This will fetch and sync from the `github` mirror instead of the default `git.libremobileos.com`
