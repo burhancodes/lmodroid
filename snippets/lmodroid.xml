@@ -47,6 +47,9 @@
     <project path="external/federated-compute" name="LMODroid/platform_external_federated-compute" remote="lmodroid" />
     <project path="external/flatbuffers" name="LMODroid/platform_external_flatbuffers" remote="lmodroid" />
     <project path="external/gptfdisk" name="LMODroid/platform_external_gptfdisk" groups="pdk" remote="lmodroid" />
+    <project path="external/kotlinc" name="LMODroid/platform_external_kotlinc" groups="pdk" remote="lmodroid" />
+    <project path="external/kotlinx.coroutines" name="LMODroid/platform_external_kotlinx.coroutines" groups="pdk" remote="lmodroid" />
+    <project path="external/kotlinx.serialization" name="LMODroid/platform_external_kotlinx.serialization" groups="pdk" remote="lmodroid" />
     <project path="external/libremobileos-fonts/AlbertSans" name="LMODroid/platform_external_libremobileos-fonts_AlbertSans" remote="lmodroid" />
     <project path="external/libremobileos-fonts/Vazirmatn" name="LMODroid/platform_external_libremobileos-fonts_Vazirmatn" remote="lmodroid" />
     <project path="external/mksh" name="LMODroid/platform_external_mksh" groups="pdk" remote="lmodroid" />
