@@ -46,6 +46,7 @@
     <project path="external/libvpx" name="LMODroid/platform_external_libvpx" groups="pdk" remote="lmodroid" />
     <project path="external/mksh" name="LMODroid/platform_external_mksh" groups="pdk" remote="lmodroid" />
     <project path="external/setupcompat" name="LMODroid/platform_external_setupcompat" groups="pdk" remote="lmodroid" />
+    <project path="external/skia" name="LMODroid/platform_external_skia" remote="lmodroid" />
     <project path="external/sonivox" name="LMODroid/platform_external_sonivox" remote="lmodroid" />
     <project path="external/svox" name="LMODroid/platform_external_svox" remote="lmodroid" />
     <project path="external/tensorflow" name="LMODroid/platform_external_tensorflow" remote="lmodroid" />
@@ -153,6 +154,7 @@
     <project path="system/core" name="LMODroid/platform_system_core" remote="lmodroid" />
     <project path="system/extras" name="LMODroid/platform_system_extras" groups="pdk" remote="lmodroid"/>
     <project path="system/keymaster" name="LMODroid/platform_system_keymaster" groups="pdk" remote="lmodroid"/>
+    <project path="system/keymint" name="LMODroid/platform_system_keymint" groups="pdk" remote="lmodroid"/>
     <project path="system/libfmq" name="LMODroid/platform_system_libfmq" remote="lmodroid" />
     <project path="system/libhidl" name="LMODroid/platform_system_libhidl" groups="pdk" remote="lmodroid"/>
     <project path="system/libziparchive" name="LMODroid/platform_system_libziparchive" groups="pdk" remote="lmodroid"/>
