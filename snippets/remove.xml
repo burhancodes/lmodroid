@@ -33,6 +33,7 @@
     <remove-project name="device/google/felix" />
     <remove-project name="device/google/felix-kernels/5.10" />
     <remove-project name="device/google/felix-sepolicy" />
+    <remove-project name="device/generic/goldfish" />
     <remove-project name="device/google/gs101" />
     <remove-project name="device/google/gs101-sepolicy" />
     <remove-project name="device/google/gs201" />
