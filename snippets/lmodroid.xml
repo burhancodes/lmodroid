@@ -45,6 +45,7 @@
     <project path="external/exfatprogs" name="LMODroid/platform_external_exfatprogs" remote="lmodroid" />
     <project path="external/federated-compute" name="LMODroid/platform_external_federated-compute" remote="lmodroid" />
     <project path="external/flatbuffers" name="LMODroid/platform_external_flatbuffers" remote="lmodroid" />
+    <project path="external/giflib" name="LMODroid/platform_external_giflib" groups="pdk,qcom_msm8x26" remote="lmodroid" />
     <project path="external/gptfdisk" name="LMODroid/platform_external_gptfdisk" groups="pdk" remote="lmodroid" />
     <project path="external/libremobileos-fonts/AlbertSans" name="LMODroid/platform_external_libremobileos-fonts_AlbertSans" remote="lmodroid" />
     <project path="external/libremobileos-fonts/Vazirmatn" name="LMODroid/platform_external_libremobileos-fonts_Vazirmatn" remote="lmodroid" />

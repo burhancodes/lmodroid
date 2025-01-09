@@ -82,6 +82,7 @@
     <remove-project name="platform/external/exfatprogs" />
     <remove-project name="platform/external/federated-compute" />
     <remove-project name="platform/external/flatbuffers" />
+    <remove-project name="platform/external/giflib" />
     <remove-project name="platform/external/gptfdisk" />
     <remove-project name="platform/external/mksh" />
     <remove-project name="platform/external/setupcompat" />
