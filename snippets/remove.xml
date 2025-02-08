@@ -77,6 +77,7 @@
     <!-- External -->
     <remove-project name="platform/external/avb" />
     <remove-project name="platform/external/chromium-webview" />
+    <remove-project name="platform/external/conscrypt" />
     <remove-project name="platform/external/dtc" />
     <remove-project name="platform/external/e2fsprogs" />
     <remove-project name="platform/external/exfatprogs" />
@@ -131,6 +132,9 @@
 
     <!-- Kernel -->
     <remove-project name="kernel/configs" />
+
+    <!-- Library -->
+    <remove-project name="platform/libcore" />
 
     <!-- Packages -->
     <remove-project name="platform/packages/apps/Car/Settings" />

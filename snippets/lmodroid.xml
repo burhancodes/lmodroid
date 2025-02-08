@@ -40,6 +40,7 @@
 
     <!-- External -->
     <project path="external/avb" name="LMODroid/platform_external_avb" groups="pdk" remote="lmodroid" />
+    <project path="external/conscrypt" name="LMODroid/platform_external_conscrypt" groups="pdk" remote="lmodroid" />
     <project path="external/dtc" name="LMODroid/platform_external_dtc" groups="pdk" remote="lmodroid" />
     <project path="external/e2fsprogs" name="LMODroid/platform_external_e2fsprogs" groups="pdk" remote="lmodroid" />
     <project path="external/exfatprogs" name="LMODroid/platform_external_exfatprogs" remote="lmodroid" />
@@ -84,6 +85,9 @@
 
     <!-- Kernel -->
     <project path="kernel/configs" name="LMODroid/platform_kernel_configs" groups="vts,pdk" remote="lmodroid" />
+
+    <!-- Library -->
+    <project path="libcore" name="LMODroid/platform_libcore" groups="pdk" remote="lmodroid" />
 
     <!-- Manifest -->
     <project path="manifest" name="LMODroid/manifest" remote="lmodroid" revision="fifteen" />
